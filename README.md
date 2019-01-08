@@ -7,4 +7,4 @@ Users are allowed to input different page numbers to be scraped. Also, change th
 
 A little modification needs to be done if users want to scrape a different type of url address. Probably inspect the desired webpage source at first, and then modify the keywords regarding lookup with the libraries.
 
-![image](http://github.com/Kentwhf/Picture-Scraper/raw/master/WX20190107-211715)
+![image](http://github.com/Kentwhf/Picture-Scraper/raw/master/WX20190107-211715.png)
